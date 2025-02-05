@@ -1,6 +1,6 @@
 # ISO 20022 Payment Data Transformation
 
-This project leverages an XSLT stylesheet to transform ISO 20022-compliant XML data (“pain.001.001.08” format) into an easily readable HTML table. The ISO number in ISO 20022 identifies the type, purpose, and version of a standardized financial message, ensuring global consistency and compatibility in processing transactions.
+In this project I made an XSLT stylesheet for ISO 20022 XML data into an easily readable HTML table. The ISO number in ISO 20022 identifies the type, purpose, and version of a standardized financial message, wich in this case is a Customer Credit Transfer Initiation Message (pain.001).
 
 ## Included features
 
